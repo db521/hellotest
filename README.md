@@ -20,8 +20,10 @@
 ----
 其他暂时没想好。。。
 有建议欢迎私聊:
+
 QQ:745887513
-微信：
-tazaitianya
+
+微信：tazaitianya
+
 ![Image text](https://raw.githubusercontent.com/db521/learntest/master/wx.png)
 
