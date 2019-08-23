@@ -3,12 +3,19 @@
 
 # 大纲：
 1.linux基础
+
 2.postman+fiddler
+
 3.jmeter
+
 4.selenium
+
 5.sql
+
 6.接口平台搭建
+
 7.服务器搭建
+
 8.docker
 ----
 其他暂时没想好。。。
